@@ -1,0 +1,60 @@
+@font-face {
+  font-family: Urdu;
+  src: url(fonts/Urdu.ttf);
+}
+
+/* * {
+  direction: rtl;
+}
+
+.main {
+  display: flex;
+} */
+
+.my-container {
+  margin: 0px auto;
+  height: 100vh;
+  background-color: blue;
+}
+
+/* @media only screen and (max-width: 576px) {
+  .my-container {
+    width: 100%;
+  }
+  .col {
+    width: 100%
+  }
+}
+
+@media only screen and (min-width: 576px) {
+  .my-container {
+    width: 540px;
+  }
+  .col-sm-12 {
+    width: 100%
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .my-container {
+    width: 720px;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .my-container {
+    width: 960px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .my-container {
+    width: 1140px;
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+  .my-container {
+    width: 1320px;
+  }
+} */
